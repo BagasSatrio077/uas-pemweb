@@ -4,6 +4,8 @@ NIM     : 121140077
 
 Kelas   : Pemrograman Web RB
 
+LINK WEBSITE : http://bagassatrio121140077.rf.gd 
+
 Bagian 1: Client-side Programming
 
 a.	Manipulasi DOM dan Form Input
