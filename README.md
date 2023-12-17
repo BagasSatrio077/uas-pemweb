@@ -1,7 +1,7 @@
-Penjelasan
-
 Nama    : Bagas Satrio
+
 NIM     : 121140077
+
 Kelas   : Pemrograman Web RB
 
 Bagian 1: Client-side Programming
@@ -111,12 +111,16 @@ d.	Konfigurasi Server:
 Terapkan sistem pemantauan untuk memantau kinerja server dan mendeteksi potensi masalah.
 
 LINK WEBSITE : http://bagassatrio121140077.rf.gd 
+
 Tampilan Login
 <img width="960" alt="image" src="https://github.com/BagasSatrio077/uas-pemweb/assets/126631952/c90c654b-a02c-4533-ac7a-56b4387c27de">
+
 Tampilan Registrasi
 <img width="960" alt="image" src="https://github.com/BagasSatrio077/uas-pemweb/assets/126631952/81b401ce-0875-4d59-abab-9e39261845da">
+
 Tampilan Home
 <img width="960" alt="image" src="https://github.com/BagasSatrio077/uas-pemweb/assets/126631952/e27445eb-7b26-4344-af7d-042b6f6c2158">
+
 Tampilan Form
 <img width="960" alt="image" src="https://github.com/BagasSatrio077/uas-pemweb/assets/126631952/5806017b-5d14-4125-9798-f9a5e9a32662">
 
