@@ -118,10 +118,10 @@ Tampilan Login
 Tampilan Registrasi
 <img width="960" alt="image" src="https://github.com/BagasSatrio077/uas-pemweb/assets/126631952/81b401ce-0875-4d59-abab-9e39261845da">
 
-Tampilan Home
+Tampilan Form
 <img width="960" alt="image" src="https://github.com/BagasSatrio077/uas-pemweb/assets/126631952/e27445eb-7b26-4344-af7d-042b6f6c2158">
 
-Tampilan Form
+Tampilan Home
 <img width="960" alt="image" src="https://github.com/BagasSatrio077/uas-pemweb/assets/126631952/5806017b-5d14-4125-9798-f9a5e9a32662">
 
 
