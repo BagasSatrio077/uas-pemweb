@@ -1,6 +1,7 @@
 Penjelasan
 
 Bagian 1: Client-side Programming
+
 a.	Manipulasi DOM dan Form Input
 •	JavaScript DOM Manipulation:
 Pada file index.php, JavaScript digunakan untuk menambahkan baris baru ke tabel saat data pemesanan baru dimasukkan. Fungsi updateBookingTable mengambil data pengguna dan memperbarui tabel dengan menambahkan baris baru.
