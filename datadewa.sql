@@ -67,9 +67,7 @@ INSERT INTO `tabeluser` (`Username`, `Password`) VALUES
 ('bagastrading999@gmail.com', '$2y$10$9AdID7l9dPKi21VbCCyod.Yc3UFSJ/Of4QuvsLg3GGde3zE0FJ/mC'),
 ('demokrasilagu', '$2y$10$wyc6.sJKHgyOyEscUAzdmOaMuKjeHbtcGsnTACYBAWGfYR5/SkEBe'),
 ('demokrasilagu', '$2y$10$pEZX.rYOaInTrESIEAiULeICekyZfmPghAyuBkblvymVR4gW/4BOa'),
-('admin', '$2y$10$HLBbb77bvuPUdpNMlzb.v.ZaIwvTB/cbDC5BsgTaSUMNYW/ncHvmW'),
-('budikontol', '$2y$10$41diZ0yK/7SgGYU5jNToiOWwP6Pqj073cA9APPY49rF8oATx2PxFy'),
-('budikontol', '$2y$10$NxmvXS/BIrEgGrB8ZxwqG.NiT3Jja2.O0T2bx/knmhTMnNIaAdlkm');
+('admin', '$2y$10$HLBbb77bvuPUdpNMlzb.v.ZaIwvTB/cbDC5BsgTaSUMNYW/ncHvmW');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
