@@ -14,7 +14,9 @@ b.	Implementasi Event pada Halaman Web
 Pada file index.php, terdapat event onclick pada setiap baris tabel yang memanggil fungsi displayDataInForm untuk menampilkan data di formulir saat baris diklik. Tombol "Pesan Tiket" juga memiliki event yang mengarahkan pengguna ke halaman halbooking.php.
 
 
+
 Bagian 2: Server-side Programming
+
 a.	Variabel Global dan Menampilkan Hasil Pengolahan Data
 Pada file halbooking.php, variabel global $_POST digunakan untuk mengambil data dari formulir setelah form submit. Data tersebut kemudian diproses untuk dimasukkan ke dalam database. Hasil dari proses tersebut ditampilkan dengan pesan sukses atau error menggunakan PHP echo.
 
@@ -22,7 +24,9 @@ b.	Implementasi Objek PHP Berbasis OOP
 Pada file koneksi.php, terdapat sebuah kelas Database yang digunakan untuk mengelola koneksi ke database. Objek dari kelas ini dibuat dan digunakan dalam skenario tertentu, seperti mendapatkan koneksi dan menutup koneksi.
 
 
+
 Bagian 3: Database Management
+
 a.	Tabel pada Database MySQL
 Terdapat penjelasan bahwa database MySQL bernama datadewa memiliki tabel tabeldewa dengan enam kolom, yaitu Nama, Jenis Kelamin, Email, Jumlah Tiket, Jenis Tiket, dan Nomor Handphone.
 
@@ -33,7 +37,9 @@ c.	Manipulasi Data pada Tabel Database
 Pada file halbooking.php, data pemesanan dimasukkan ke dalam tabel database dengan menggunakan query SQL INSERT. Terdapat pula implementasi penghapusan data berdasarkan nama dengan query DELETE.
 
 
+
 Bagian 4: State Management
+
 a.	Pengelolaan State dengan Session
 Pada file login.php, session PHP digunakan untuk menyimpan informasi pengguna yang berhasil login. Session $_SESSION['username'] di-set setelah verifikasi password berhasil.
 
@@ -41,7 +47,9 @@ b.	Pengelolaan State dengan Cookie dan Browser Storage
 Pada file script.js, ada potongan kode yang mengimplementasikan manipulasi data menggunakan cookie dan browser storage pada sisi client menggunakan JavaScript. Namun, perlu lebih banyak informasi atau implementasi konkrit untuk memberikan penjelasan yang lebih rinci.
 
 
+
 Bonus: Hosting Aplikasi Web
+
 a.	Langkah-langkah Meng-host Aplikasi Web dengan InfiniteFree:
 1.	Buat Akun InfiniteFree:
 •	Kunjungi situs resmi InfiniteFree dan buat akun pengguna.
